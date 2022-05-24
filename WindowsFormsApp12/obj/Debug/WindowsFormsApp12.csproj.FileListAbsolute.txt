@@ -1,0 +1,10 @@
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+D:\Moje složka\Škola\Prográmky\Prográmky\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
